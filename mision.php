@@ -26,7 +26,7 @@
     <nav>
         <a href="index.php">Inicio</a>
         <a href="productos.php">Productos</a>
-        <a href="mision.php">Misión/Visión</a>
+        <a href="mision.php">MISION/Visión</a>
         <a href="login.php">Iniciar Sesión</a>
     </nav>
     <div class="container">
