@@ -33,7 +33,7 @@
         <div class="card">
             <span>🎯</span>
             <h2>Misión</h2>
-            <p>Proveer herramientas de alta calidad para el sector industrial, de construcción y uso doméstico, ofreciendo productos confiables a precios competitivos, respaldados por un servicio al cliente excepcional que supere las expectativas de nuestros clientes en cada proyecto.</p>
+            <p>Tercera oportunidad TSO VTNC</p>
         </div>
         <div class="card">
             <span>🚀</span>
