@@ -30,7 +30,7 @@
         <a href="login.php">Acceder</a>
     </nav>
     <div class="hero">
-        <h1>🔧 TRUPER</h1>
+        <h1>🔧 TRUPER  </h1>
         <p>Tu ferretería de confianza</p>
     </div>
     <div class="bienvenida">
