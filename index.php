@@ -31,7 +31,7 @@
     </nav>
     <div class="hero">
         <h1>🔧 TRUPER  </h1>
-        <p>Tu ferretería de confianza</p>
+        <p>Tercera oportunidad TSO VTNC </p>
     </div>
     <div class="bienvenida">
         <h2>Bienvenido a Ferretería TRUPER</h2>
