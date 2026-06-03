@@ -31,7 +31,11 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
 </head>
 <body>
     <div class="box">
+<<<<<<< HEAD
         <h2>LOGIN EXAMEN TERCERA OPORTUNIDAD TSOMLJS</h2>
+=======
+        <h2>Login Tercera Oportunidad  TSO VTNC - Acceso</h2>
+>>>>>>> 7b89111acf0a1da4466d96c2dfb2595ec4b1dbec
         <?php if(isset($error)) echo "<p class='error'>$error</p>"; ?>
         <form method="POST">
             <input type="text" name="usuario" placeholder="Usuario" required>

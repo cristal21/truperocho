@@ -28,7 +28,7 @@ $resultado = $conn->query("SELECT * FROM herramientas");
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Admin - Truper</title>
+    <title>Admin - Truper </title>
     <style>
         body{font-family:Arial,sans-serif;margin:0;}
         nav{background:#ff6600;padding:15px;color:white;text-align:center;}
