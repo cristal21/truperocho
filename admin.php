@@ -47,7 +47,7 @@ $resultado = $conn->query("SELECT * FROM herramientas");
 </head>
 <body>
 <nav>
-    <b>TRUPER - Panel Administrador</b>
+    <b>TRUPER - Panel Administrador TERCERA OPORTUNIDAD</b>
     <a href="index.php">Inicio</a>
     <a href="?logout=1">Cerrar Sesión</a>
 </nav>
