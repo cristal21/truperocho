@@ -25,7 +25,7 @@
         <a href="mision.php">Misión/Visión</a>
         <a href="login.php">Iniciar Sesión</a>
     </nav>
-    <h1>Nuestros PRODUCTOS </h1>
+    <h1>Nuestros productos </h1>
     <div class="grid">
         <div class="card"><span>🔨</span><h3>Martillos y Mazos</h3></div>
         <div class="card"><span>🔧</span><h3>Llaves y Pinzas</h3></div>
